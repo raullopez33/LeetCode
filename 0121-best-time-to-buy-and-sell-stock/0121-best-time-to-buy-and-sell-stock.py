@@ -4,14 +4,10 @@ class Solution:
         #O(n) since the brute force is O(n**2)
 
         #Our invariant 
-        l = 0
-        max_p = 0
+        maxP = 0
+        minBuy = prices[0]
 
-        for r in range(1, len(prices)):
-
-            if prices[r] < prices[l]:
-                l = r
-            else:
-                max_p = max(max_p, prices[r]-prices[l])
-        
-        return max_p
+        for sell in prices:
+            maxP = max(maxP, sell - minBuy)
+            minBuy = min(minBuy, sell)
+        return maxP
