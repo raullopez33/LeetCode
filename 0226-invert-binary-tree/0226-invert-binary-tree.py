@@ -6,6 +6,7 @@
 #         self.right = right
 # we will be conducting a recursive solutions using depth first search
 # Let's get right into it lol -- I need to keep going - help me chief
+
 class Solution:
     def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
         
@@ -19,5 +20,5 @@ class Solution:
 
         self.invertTree(root.left)
         self.invertTree(root.right)
-
+        
         return root
