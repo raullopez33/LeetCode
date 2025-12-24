@@ -19,7 +19,7 @@ class Solution:
     def isSameTree(self, r, s):
         if not r and not s:
             return True
-
+            
         if r and s and r.val == s.val:
             return self.isSameTree(r.left, s.left) and self.isSameTree(r.right, s.right)
         
