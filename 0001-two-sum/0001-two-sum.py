@@ -21,7 +21,7 @@ class Solution:
             if new_pos in h_m:
                 return [i, h_m[new_pos]]
             h_m[nums[i]] = i
-        
+        return []
 
 
 
