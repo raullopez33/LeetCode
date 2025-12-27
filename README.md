@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raullopez33/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/raullopez33/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raullopez33/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0704-binary-search](https://github.com/raullopez33/LeetCode/tree/master/0704-binary-search) |
 | [1929-concatenation-of-array](https://github.com/raullopez33/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/raullopez33/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0572-subtree-of-another-tree](https://github.com/raullopez33/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raullopez33/LeetCode/tree/master/0001-two-sum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/raullopez33/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
