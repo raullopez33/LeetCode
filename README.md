@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/raullopez33/LeetCode/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raullopez33/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0704-binary-search](https://github.com/raullopez33/LeetCode/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/raullopez33/LeetCode/tree/master/0705-design-hashset) |
 | [1929-concatenation-of-array](https://github.com/raullopez33/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/raullopez33/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0705-design-hashset](https://github.com/raullopez33/LeetCode/tree/master/0705-design-hashset) |
 ## Recursion
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/raullopez33/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/raullopez33/LeetCode/tree/master/0705-design-hashset) |
 ## Simulation
 |  |
 | ------- |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raullopez33/LeetCode/tree/master/0001-two-sum) |
+| [0705-design-hashset](https://github.com/raullopez33/LeetCode/tree/master/0705-design-hashset) |
 ## Trie
 |  |
 | ------- |
@@ -92,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/raullopez33/LeetCode/tree/master/0027-remove-element) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/raullopez33/LeetCode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
