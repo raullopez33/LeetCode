@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/raullopez33/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/raullopez33/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raullopez33/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0219-contains-duplicate-ii](https://github.com/raullopez33/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0704-binary-search](https://github.com/raullopez33/LeetCode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/raullopez33/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/raullopez33/LeetCode/tree/master/0706-design-hashmap) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raullopez33/LeetCode/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/raullopez33/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0705-design-hashset](https://github.com/raullopez33/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/raullopez33/LeetCode/tree/master/0706-design-hashmap) |
 ## Trie
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/raullopez33/LeetCode/tree/master/0088-merge-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/raullopez33/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
