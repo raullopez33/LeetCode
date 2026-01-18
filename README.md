@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/raullopez33/LeetCode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/raullopez33/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/raullopez33/LeetCode/tree/master/0706-design-hashmap) |
+| [1046-last-stone-weight](https://github.com/raullopez33/LeetCode/tree/master/1046-last-stone-weight) |
 | [1929-concatenation-of-array](https://github.com/raullopez33/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/raullopez33/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/raullopez33/LeetCode/tree/master/1046-last-stone-weight) |
 ## Data Stream
 |  |
 | ------- |
