@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/raullopez33/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/raullopez33/LeetCode/tree/master/0706-design-hashmap) |
 | [0953-verifying-an-alien-dictionary](https://github.com/raullopez33/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
+| [0997-find-the-town-judge](https://github.com/raullopez33/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/raullopez33/LeetCode/tree/master/1046-last-stone-weight) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/raullopez33/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/raullopez33/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/raullopez33/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/raullopez33/LeetCode/tree/master/0706-design-hashmap) |
 | [0953-verifying-an-alien-dictionary](https://github.com/raullopez33/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
+| [0997-find-the-town-judge](https://github.com/raullopez33/LeetCode/tree/master/0997-find-the-town-judge) |
 ## Trie
 |  |
 | ------- |
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/raullopez33/LeetCode/tree/master/0463-island-perimeter) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/raullopez33/LeetCode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
