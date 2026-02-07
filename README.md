@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/raullopez33/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raullopez33/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/raullopez33/LeetCode/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/raullopez33/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/raullopez33/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raullopez33/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/raullopez33/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/raullopez33/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raullopez33/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/raullopez33/LeetCode/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/raullopez33/LeetCode/tree/master/0344-reverse-string) |
 | [0572-subtree-of-another-tree](https://github.com/raullopez33/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0680-valid-palindrome-ii](https://github.com/raullopez33/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raullopez33/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/raullopez33/LeetCode/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/raullopez33/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0705-design-hashset](https://github.com/raullopez33/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/raullopez33/LeetCode/tree/master/0706-design-hashmap) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/raullopez33/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/raullopez33/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Sliding Window
 |  |
