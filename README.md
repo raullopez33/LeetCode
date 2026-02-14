@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/raullopez33/LeetCode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/raullopez33/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/raullopez33/LeetCode/tree/master/0706-design-hashmap) |
+| [0912-sort-an-array](https://github.com/raullopez33/LeetCode/tree/master/0912-sort-an-array) |
 | [0953-verifying-an-alien-dictionary](https://github.com/raullopez33/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0997-find-the-town-judge](https://github.com/raullopez33/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/raullopez33/LeetCode/tree/master/1046-last-stone-weight) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/raullopez33/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/raullopez33/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0912-sort-an-array](https://github.com/raullopez33/LeetCode/tree/master/0912-sort-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/raullopez33/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0912-sort-an-array](https://github.com/raullopez33/LeetCode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/raullopez33/LeetCode/tree/master/1046-last-stone-weight) |
 ## Data Stream
 |  |
@@ -215,4 +218,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/raullopez33/LeetCode/tree/master/0997-find-the-town-judge) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/raullopez33/LeetCode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/raullopez33/LeetCode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/raullopez33/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/raullopez33/LeetCode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/raullopez33/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
